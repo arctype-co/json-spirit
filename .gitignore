@@ -4,3 +4,8 @@ Makefile
 *.swo
 CMakeFiles
 CMakeCache.txt
+json_demo
+json_test
+json_map_demo
+*.a
+json_headers_only_demo
